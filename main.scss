@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital@1&display=swap');
+
+html, body{
+    background-color: #111;
+    font-family: 'Lato', sans-serif !important; 
+}
+
+::-moz-selection{
+    background-color: #009e66;
+}
+
+::selection{
+    background-color: #009e66;
+}
